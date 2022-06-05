@@ -1,0 +1,26 @@
+.container {
+  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-top: 20vh;
+  min-height: 100vh;
+}
+
+.container div {
+  margin: 0 auto;
+}
+
+.directory {
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.button {
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  outline: none;
+  border: none;
+  background-color: lightseagreen;
+  color: black;
+}
